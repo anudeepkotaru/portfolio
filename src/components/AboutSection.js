@@ -22,7 +22,7 @@ export default function AboutSection() {
               <ul className="flex space-x-4">
                 <li>
                   <a
-                    href="https://www.linkedin.com/in/siva-kumar-k-6b2474152/"
+                    href="https://www.linkedin.com/in/anudeep-kotaru/"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -31,7 +31,7 @@ export default function AboutSection() {
                 </li>
                 <li>
                   <a
-                    href="https://github.com/SivaKatta1010"
+                    href="https://github.com/anudeepkotaru"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
