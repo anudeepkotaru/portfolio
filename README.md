@@ -74,7 +74,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-**Siva Kumar K**  
-[LinkedIn](https://www.linkedin.com/in/siva-kumar-k-6b2474152/)  
-[GitHub](https://github.com/SivaKatta1010)  
-Email: kattashivakmr@gmail.com
+**Satya Anudeep K**  
+[LinkedIn](https://in.linkedin.com/in/satya-anudeep-kotaru-4845b5168)  
+Email: anudeepkotari1999@gmail.com
