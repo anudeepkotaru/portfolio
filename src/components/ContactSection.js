@@ -16,7 +16,7 @@ export default function ContactSection() {
     e.preventDefault();
 
     // FormSubmit API endpoint with secure token
-    const formEndpoint = "https://formsubmit.co/kowshikkotaru2001@gmail.com";
+    const formEndpoint = "https://formsubmit.co/satyaanudeepk@gmail.com";
 
     // Create Form Data
     const formDataToSend = new FormData();
