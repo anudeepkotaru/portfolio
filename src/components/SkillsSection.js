@@ -132,7 +132,7 @@ export default function SkillsSection() {
           <p className="text-gray-800 dark:text-gray-300 py-1">Unix/Linux</p>
         </div>
 
-        <div className="text-center shadow-lg p-10 rounded-xl min-w-[300px] bg-white dark:bg-gray-800">
+        {/* <div className="text-center shadow-lg p-10 rounded-xl min-w-[300px] bg-white dark:bg-gray-800">
           <img
             src={bioinformaticsIcon}
             width={100}
@@ -163,7 +163,7 @@ export default function SkillsSection() {
           <p className="text-gray-800 dark:text-gray-300 py-1">
             Matplotlib for Biological Data
           </p>
-        </div>
+        </div> */}
 
         <div className="text-center shadow-lg p-10 rounded-xl min-w-[300px] bg-white dark:bg-gray-800">
           <img

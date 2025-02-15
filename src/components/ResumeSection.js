@@ -54,7 +54,7 @@ export default function ResumeSection() {
                   Master of Science in Data Science
                   </h4>
                   <p className="text-gray-700 dark:text-gray-300">
-                  University at Buffalo - SUNY, NY, USA
+                  University at Buffalo - SUNY, NY, USA (GPA - 3.93/4.0)
                   </p>
                   <p className="mt-2 text-gray-600 dark:text-gray-400">
                     <span className="font-bold"> Coursework: </span>{" "}
@@ -76,7 +76,7 @@ export default function ResumeSection() {
                   B.Tech in Computer Science and Engineering
                   </h4>
                   <p className="text-gray-700 dark:text-gray-300">
-                  SASTRA University, TN, India
+                  SASTRA University, TN, India (GPA - 8.1/10.0)
                   </p>
                   <p className="mt-2 text-gray-600 dark:text-gray-400">
                     <span className="font-bold"> Coursework: </span>

@@ -48,9 +48,10 @@ export default function Navbar() {
           <ul className="hidden sm:flex sm:ml-10 sm:space-x-8">
             {[
               { href: "#about", label: "About" },
-              { href: "#portfolio", label: "Projects" },
+              
               // { href: "#testimonials", label: "Testimonials" },
               { href: "#resume", label: "Summary" },
+              { href: "#portfolio", label: "Projects" },
               // { href: "#research", label: "Research" },
               { href: "#contact", label: "Contact" },
             ].map((item) => (
@@ -105,9 +106,10 @@ export default function Navbar() {
             <ul className="space-y-4 mt-4">
               {[
                 { href: "#about", label: "About" },
-                { href: "#portfolio", label: "Projects" },
+                
                 // { href: "#testimonials", label: "Testimonials" },
                 { href: "#resume", label: "Summary" },
+                { href: "#portfolio", label: "Projects" },
                 // { href: "#research", label: "Research" },
                 { href: "#contact", label: "Contact" },
               ].map((item) => (
