@@ -58,9 +58,9 @@ export default function ResumeSection() {
                   </p>
                   <p className="mt-2 text-gray-600 dark:text-gray-400">
                     <span className="font-bold"> Coursework: </span>{" "}
-                    Bio-Computing, Data Mining, Data Processing Systems,
-                    Algorithms in Computational Biology, Statistical Learning
-                    Theory
+                    Porbability, Computational Mathematics, Machine Learning,
+                    Data Intensive Computing, Statistical Learning and Data Mining,
+                    Database Management Systems
                   </p>
                 </div>
               </div>
@@ -83,7 +83,7 @@ export default function ResumeSection() {
                     Data Structures and Algorithms, Discrete Structures in
                     Mathematics and Computer Science, Object-Oriented
                     Programming, Machine Learning, Operating Systems, Database
-                    Systems, Information Retrieval, Bio-Chemistry, Cell Biology
+                    Systems, Natural Language processing, Web Development
                   </p>
                 </div>
               </div>
@@ -101,18 +101,19 @@ export default function ResumeSection() {
                 </div>
                 <div className="ml-8 max-w-2xl">
                   <h4 className="text-xl font-bold text-gray-900 dark:text-gray-100">
-                  Development Engineer
+                  Software Engineer
                   </h4>
                   <p className="text-gray-700 dark:text-gray-300">
                   COMCAST, Chennai, India
                   </p>
                   <ul className="mt-2 text-gray-600 dark:text-gray-400 list-disc pl-5">
-                    <li>Implemented end-to-end custom widgets leveraging ReactJS and ArcGIS JS 4.x.</li>
+                    <li>Implemented responsive web apps using MERN stack with OAuth role based authentication.</li>
+                    <li>Architected a scalable ETL pipeline utilizing Databricks, PySpark to analyze over 100M instances.</li>
                     <li>Designed NearNet processing and validation scripts utilized in FCC BDC submissions.</li>
                     <li>Constructed Proximity application operating with Python and ArcGIS map services to identify the plant network with a specified location.</li>
                     <li>Facilitated the profitable migration of applications from VMware’s Steel Cloud to the Comcast Cloud Platform.</li>
                     <li>Implemented ELK dashboards for visualization, alerting, monitoring, Logstash, and Filebeat services for data analytics.</li>
-                    <li>Established automation tasks utilizing batch scripts and Python web frameworks.</li>
+                    <li>Established automation tasks using batch and shell scripts and Python web frameworks.</li>
                     <li>Designed end-to-end Dockerization for better application performance, ease of usage, and fast deployments and migration.</li>
                   </ul>
                 </div>
@@ -126,13 +127,14 @@ export default function ResumeSection() {
                 </div>
                 <div className="ml-8 max-w-2xl">
                   <h4 className="text-xl font-bold text-gray-900 dark:text-gray-100">
-                    Software Development Engineer
+                    Software Engineer Intern
                   </h4>
                   <p className="text-gray-700 dark:text-gray-300">
                   COMCAST, Chennai, India
                   </p>
                   <ul className="mt-2 text-gray-600 dark:text-gray-400 list-disc pl-5">
-                    <li>Engineered robust Object Detection models utilizing advanced Deep Learning techniques, specifically YOLO (You Only Look Once), to accurately categorize network devices.</li>
+                    <li>Engineered robust Object Detection models utilizing advanced Deep Learning techniques and YOLO to accurately categorize network devices.</li>
+                    <li>Built machine learning models with Scikit-learn to predict customer churn, achieving 85% accuracy in internship project.</li>
                     <li>Created CRUD operations on MongoDB leveraging Flask and deployed on IIS.</li>
                     <li>Incorporated word suggester and auto-correct features leveraging Solr and exposed as REST APIs.</li>
                   </ul>
