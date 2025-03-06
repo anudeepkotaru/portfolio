@@ -4,12 +4,14 @@ This is a personal portfolio website built using React.js and Tailwind CSS. It s
 
 ## Table of Contents
 
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [My Portfolio React Application](#my-portfolio-react-application)
+  - [Table of Contents](#table-of-contents)
+  - [Features](#features)
+  - [Technologies Used](#technologies-used)
+  - [Deployment](#deployment)
+  - [Contributing](#contributing)
+  - [License](#license)
+  - [Contact](#contact)
 
 ## Features
 
@@ -75,5 +77,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 **Satya Anudeep K**  
-[LinkedIn](https://in.linkedin.com/in/satya-anudeep-kotaru-4845b5168)  
+[LinkedIn](https://in.linkedin.com/in/satya-kotaru)  
 Email: anudeepkotari1999@gmail.com
