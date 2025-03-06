@@ -35,7 +35,7 @@ export default function HeroSection() {
           </div>
           <div className="mt-8 flex justify-center md:justify-start space-x-8">
             <a
-              href="https://x.com/Kskv5?t=sMtAG1uTbPNsc561uqmM7A&s=08"
+              href="https://www.linkedin.com/in/satya-kotaru/"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -49,7 +49,8 @@ export default function HeroSection() {
               <AiFillInstagram className="text-gray-900 dark:text-gray-300 text-4xl hover:text-yellow-500 dark:hover:text-yellow-400" />
             </a> */}
             <a
-              href="https://www.reddit.com/u/you_cant_see_me1010/s/qTpHAEjXsm"
+              // href="https://www.reddit.com/u/you_cant_see_me1010/s/qTpHAEjXsm"
+              href="https://github.com/anudeepkotaru/"
               target="_blank"
               rel="noopener noreferrer"
             >
