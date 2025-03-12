@@ -52,7 +52,7 @@ export default function ContactSection() {
 
         <div className="row flex justify-center mt-8">
           <form onSubmit={handleSubmit} className="contact-form w-full max-w-2xl bg-white dark:bg-gray-900 p-6 rounded-lg shadow-lg">
-            <div className="row flex flex-wrap -mx-3">
+            <div className="row flex flex-wrap">
               {/* Name Input */}
               <div className="form-item w-full md:w-1/2 px-3 mb-4">
                 <div className="form-group">
