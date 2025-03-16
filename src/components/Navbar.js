@@ -91,7 +91,7 @@ export default function Navbar() {
             </button>
             <a
               className="bg-gradient-to-r from-orange-400 to-orange-600 dark:from-orange-600 dark:to-orange-800 text-white px-6 py-2 rounded-md shadow-md transition-all duration-300"
-              href="https://drive.google.com/file/d/1GsNCeESvy5dxVdfw9UTR6lh-dEfDxt4w/view?usp=sharing"
+              href="https://drive.google.com/file/d/1oEG-NWNeAYhNVxdWpU06q7XutcuagzeR/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
