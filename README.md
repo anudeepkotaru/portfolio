@@ -77,5 +77,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 **Satya Anudeep K**  
-[LinkedIn](https://in.linkedin.com/in/sa-kotaru)  
+[LinkedIn](https://in.linkedin.com/in/sak1112)  
 Email: satyaanudeepk@gmail.com

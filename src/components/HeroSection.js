@@ -35,7 +35,7 @@ export default function HeroSection() {
           </div>
           <div className="mt-8 flex justify-center md:justify-start space-x-8">
             <a
-              href="https://www.linkedin.com/in/sa-kotaru/"
+              href="https://www.linkedin.com/in/sak1112/"
               target="_blank"
               rel="noopener noreferrer"
             >
