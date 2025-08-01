@@ -45,7 +45,7 @@ export default function ResumeSection() {
               <div className="flex justify-center">
                 <div className="flex items-center space-x-4">
                   <span className="text-yellow-500 font-semibold">
-                  2023 - 2024
+                  2023 - 2025
                   </span>
                   <div className="border-l-2 border-yellow-500 h-full"></div>
                 </div>
@@ -95,7 +95,29 @@ export default function ResumeSection() {
               <div className="flex justify-center">
                 <div className="flex items-center space-x-4">
                   <span className="text-yellow-500 font-semibold">
-                  2021 - 2023
+                    Feb 2025 - Present
+                  </span>
+                  <div className="border-l-2 border-yellow-500 h-full"></div>
+                </div>
+                <div className="ml-8 max-w-2xl">
+                  <h4 className="text-xl font-bold text-gray-900 dark:text-gray-100">
+                    Software Engineer
+                  </h4>
+                  <p className="text-gray-700 dark:text-gray-300">
+                  Vedainfo inc
+                  </p>
+                  <ul className="mt-2 text-gray-600 dark:text-gray-400 list-disc pl-5">
+                    <li>Implemented a full stack web app with Node.js, React and PostgreSQL to streamline form workflows, digital signatures, notifications and storage, enhancing operational efficiency by 30% and end-to-end testing using Cypress and Selenium.</li>
+                    <li>Optimized 10+ RESTful and GraphQL APIs for python backend, integrating AWS S3 and RDS for secure data storage and incorporated OAuth2 and JWT authentication for API security along with unit tests using pytest.</li>
+                    <li>Orchestrated MLOps pipelines in linux servers, leveraging Jenkins, Docker, AWS SageMaker and EKS to enable large-scale data processing and efficient distributed training for ML models, improving deployment time by 50%.</li>
+                    <li>Automated AWS infrastructure using Terraform (IaC) and developed Python Boto3 scripts for custom deployment workflows.</li>
+                  </ul>
+                </div>
+              </div>
+              <div className="flex justify-center mt-10">
+                <div className="flex items-center space-x-4">
+                  <span className="text-yellow-500 font-semibold">
+                    Feb 2021 - July 2023
                   </span>
                   <div className="border-l-2 border-yellow-500 h-full"></div>
                 </div>
@@ -104,7 +126,7 @@ export default function ResumeSection() {
                   Software Engineer
                   </h4>
                   <p className="text-gray-700 dark:text-gray-300">
-                  COMCAST, Chennai, India
+                  COMCAST
                   </p>
                   <ul className="mt-2 text-gray-600 dark:text-gray-400 list-disc pl-5">
                     <li>Implemented responsive web apps using MERN stack with OAuth role based authentication.</li>
@@ -121,16 +143,16 @@ export default function ResumeSection() {
               <div className="flex justify-center mt-10">
                 <div className="flex items-center space-x-4">
                   <span className="text-yellow-500 font-semibold">
-                  2021 - 2021
+                    May 2020 - Jan 2021
                   </span>
                   <div className="border-l-2 border-yellow-500 h-full"></div>
                 </div>
                 <div className="ml-8 max-w-2xl">
                   <h4 className="text-xl font-bold text-gray-900 dark:text-gray-100">
-                    Software Engineer Intern
+                    Software Development Engineer
                   </h4>
                   <p className="text-gray-700 dark:text-gray-300">
-                  COMCAST, Chennai, India
+                  Momentum Business Solutions Pvt Ltd
                   </p>
                   <ul className="mt-2 text-gray-600 dark:text-gray-400 list-disc pl-5">
                     <li>Engineered robust Object Detection models utilizing advanced Deep Learning techniques and YOLO to accurately categorize network devices.</li>
@@ -140,6 +162,7 @@ export default function ResumeSection() {
                   </ul>
                 </div>
               </div>
+              
               {/* <div className="flex justify-center mt-10">
                 <div className="flex items-center space-x-4">
                   <span className="text-yellow-500 font-semibold">
